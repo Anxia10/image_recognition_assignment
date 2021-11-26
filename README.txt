@@ -1,1 +1,1 @@
-智能图像识别第二次作业
+assignment2 of Intelligent image recognition
